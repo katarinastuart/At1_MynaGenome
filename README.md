@@ -11,5 +11,5 @@ VGP genome [GCA_027559615.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_02
 
 
 ## Final genome assembly
-- AcTris_vAus2.0 [GCA_037013685.1](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA928557)<p>
+- [GCA_037013685.1](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA928557)<p>
 
